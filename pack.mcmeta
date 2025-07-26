@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 45,
+    "supported_formats":{
+      "min_inclusive":45,
+      "max_inclusive":70
+    },
+    "description": "Turns command blocks into white concrete.",
+    "credit":{
+      "Thanks0":"This Pack ist based on SPBR by NyaShulker"
+    }
+  }
+}
